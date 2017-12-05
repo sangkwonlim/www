@@ -1,0 +1,9 @@
+{
+    "version" : "2.4.7",
+    "restriction" : 0,
+    "motionTime" : 1200,
+    "motionSense" : 9,
+    "adPlayTime" : 180,
+    "recordTime" : 180,
+    "restore": 1
+}
